@@ -1,0 +1,50 @@
+C:\Users\Teeradech\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Teeradech\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\Teeradech\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\Teeradech\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Teeradech\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Teeradech\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Teeradech\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\Teeradech\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\Teeradech\Desktop\Project\Project\obj\Debug\Project.interfaceproject.resources
+C:\Users\Teeradech\Desktop\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\Teeradech\Desktop\Project\Project\obj\Debug\Project.addemployee.resources
+C:\Users\ASUS\Desktop\Project-20171006T053211Z-001\Project\Project\bin\Debug\Project.exe.config
+C:\Users\ASUS\Desktop\Project-20171006T053211Z-001\Project\Project\bin\Debug\Project.exe
+C:\Users\ASUS\Desktop\Project-20171006T053211Z-001\Project\Project\bin\Debug\Project.pdb
+C:\Users\ASUS\Desktop\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.addemployee.resources
+C:\Users\ASUS\Desktop\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\ASUS\Desktop\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.interfaceproject.resources
+C:\Users\ASUS\Desktop\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.exe
+C:\Users\ASUS\Desktop\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.pdb
+C:\Users\Lenovo\Desktop\Folder\Visual s\Project-20171006T053211Z-001\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Lenovo\Desktop\Folder\Visual s\Project-20171006T053211Z-001\Project\Project\bin\Debug\Project.exe
+C:\Users\Lenovo\Desktop\Folder\Visual s\Project-20171006T053211Z-001\Project\Project\bin\Debug\Project.pdb
+C:\Users\Lenovo\Desktop\Folder\Visual s\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Folder\Visual s\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.addemployee.resources
+C:\Users\Lenovo\Desktop\Folder\Visual s\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\Lenovo\Desktop\Folder\Visual s\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.interfaceproject.resources
+C:\Users\Lenovo\Desktop\Folder\Visual s\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Folder\Visual s\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Folder\Visual s\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Folder\Visual s\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.exe
+C:\Users\Lenovo\Desktop\Folder\Visual s\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.pdb
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\bin\Debug\Project.exe.manifest
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\bin\Debug\Project.application
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\bin\Debug\Project.exe
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\bin\Debug\Project.pdb
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.addemployee.resources
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.interfaceproject.resources
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.exe.manifest
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.application
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.exe
+C:\Users\Teeradech\Desktop\Project-20171006T053211Z-001\Project-20171006T053211Z-001\Project\Project\obj\Debug\Project.pdb
